@@ -1,0 +1,5 @@
+site_name: My Document 
+theme: readthedocs
+markdown_extensions:
+  - codehilite:
+      linenums: true   
